@@ -10,7 +10,7 @@ FoundryVTT用のワールド
 
 以下のリンクをワールドとしてインストールしてください。
 
-* リンク：
+* リンク：https://raw.githubusercontent.com/Sa10yama/konyahanabe/main/world.json
 
 ### FVTT アドベンチャーセット 「北方の宝石」について
 *これはソード・コーストのネヴァーウィンター周辺を舞台としたシナリオ集（未完成）です。*
